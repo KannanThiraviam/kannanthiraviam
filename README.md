@@ -24,6 +24,7 @@ Technology leader with 20+ years of experience building scalable, secure, and hi
   - https://github.com/fraud-platform/card-fraud-rule-engine
   - https://github.com/fraud-platform/card-fraud-transaction-management
   - https://github.com/fraud-platform/card-fraud-intelligence-portal
+  - https://github.com/fraud-platform/card-fraud-ops-analyst-agent
   - https://github.com/fraud-platform/card-fraud-e2e-load-testing
 
 ## Focus Areas
