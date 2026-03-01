@@ -27,6 +27,13 @@ Technology leader with 20+ years of experience building scalable, secure, and hi
   - https://github.com/fraud-platform/card-fraud-ops-analyst-agent
   - https://github.com/fraud-platform/card-fraud-e2e-load-testing
 
+### Quantitative Trading Research
+
+- Building momentum strategy research and backtesting platform for Indian markets
+- Organization: https://github.com/StockQuantLab
+- Core project: 
+  - https://github.com/StockQuantLab/nse-momentum-lab
+
 ## Focus Areas
 
 - 🏗️ **Architecture and System Design**: Distributed systems, microservices, event-driven platforms
