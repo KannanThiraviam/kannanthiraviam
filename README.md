@@ -33,6 +33,7 @@ Technology leader with 20+ years of experience building scalable, secure, and hi
 - Organization: https://github.com/StockQuantLab
 - Core project: 
   - https://github.com/StockQuantLab/nse-momentum-lab
+  - https://github.com/StockQuantLab/cpr-pivot-lab
 
 ## Focus Areas
 
